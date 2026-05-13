@@ -1,0 +1,8 @@
+{
+  "name": "ex17-query-strings",
+  "version": "1.0.0",
+  "description": "Exercício 17 — Query Strings",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
